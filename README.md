@@ -11,7 +11,7 @@ run the Ceritficates.command in the python install directory if your are on
 macOS.
 \
 \
-![example png](img/example)
+![example png](img/example.png)
 
 ### Prerequisites
 
